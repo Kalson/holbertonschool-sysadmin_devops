@@ -1,3 +1,2 @@
 #!/bin/bash
-cp filename /tmp
- 
+cp * /filename /tmp
