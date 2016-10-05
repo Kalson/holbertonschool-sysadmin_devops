@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 777 /Directory
+chmod a+x /Directory
