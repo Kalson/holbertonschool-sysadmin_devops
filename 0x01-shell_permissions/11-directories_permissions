@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+a
+chmod 777 /Directory
