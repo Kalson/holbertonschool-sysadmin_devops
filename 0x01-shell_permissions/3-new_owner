@@ -1,2 +1,1 @@
-#!/bin/bash
-sudo chown hello:betty
+chown [hello]:[betty]
