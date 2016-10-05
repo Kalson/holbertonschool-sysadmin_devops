@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -Ul
+su -Ul
