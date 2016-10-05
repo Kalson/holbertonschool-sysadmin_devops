@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 664 olleh
+chmod --reference=hello olleh
