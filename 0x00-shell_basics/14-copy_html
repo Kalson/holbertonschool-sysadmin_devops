@@ -1,2 +1,2 @@
 #!/bin/bash
-cp * /filename /tmp
+cp .html* /filename /tmp
