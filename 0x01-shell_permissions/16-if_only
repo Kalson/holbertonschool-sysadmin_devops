@@ -1,0 +1,4 @@
+#!/bin/bash
+if[id -n = "guillaume"]
+then
+chown hello betty
