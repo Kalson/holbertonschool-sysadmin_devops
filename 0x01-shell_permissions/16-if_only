@@ -1,4 +1,2 @@
 #!/bin/bash
-if[id -un = "guillaume"]
-then
-chown hello betty
+chown hello betty --from=guillaume
