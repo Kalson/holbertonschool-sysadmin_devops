@@ -1,2 +1,2 @@
 #!/bin/bash
-echo TRUEKNOWLEDGE="128"
+TRUEKNOWLEDGE="128" | echo
