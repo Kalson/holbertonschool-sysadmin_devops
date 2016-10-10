@@ -1,8 +1,8 @@
 # Shell, init files, variables and expansions
-0. Create a script that creates an alias.
-1. Create a script that prints hello user, where user is the current Linux user.
-2 - The path to success is to take massive, determined action mandatory
-3 - If the path be beautiful, let us not ask where it leads mandatory
+0. 0 - Create a script that creates an alias.
+1. 1 - Create a script that prints hello user, where user is the current Linux user.
+2. 2 - The path to success is to take massive, determined action mandatory
+3. 3 - If the path be beautiful, let us not ask where it leads mandatory
 4 - Create a script that lists environment variables.
 5 - Create a script that lists all local variables.
 6 - Create a script that creates a new local variable.
